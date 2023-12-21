@@ -5,14 +5,12 @@ I'm a second-year computer science student at Dauphine with a passion for progra
 ## 📚 About Me
 🎓 Education: Currently navigating through my second year at Dauphine.
 💻 Passion: I have a soft spot for programming, gaming (LoL), and love to dive into new challenges.
-🌱 Current Exploration: Currently delving into the (https://github.com/nim-lang/Nim)[Nim programming language].
+🌱 Current Exploration: Currently delving into the [Nim programming language](https://github.com/nim-lang/Nim).
 🚀 Goals: My aim is to continually enhance my coding skills and embark on interesting projects.
 
 ## 🛠️ Technologies and Tools
-I'm quite at home with:
-
-Languages: Java, C, Python, Javascript
-Tools: Jetbrains IDEs, Emacs, Raylib
+I'm quite at home with Java, C, Python, Javascript
+but also Jetbrains IDEs, Emacs, Raylib, ...
 
 ## 🌱 Currently Learning
 Right now, my focus is on expanding my skills in game making, but it's a been tough with the mathematics so I don't really do any progress for now
@@ -20,7 +18,7 @@ Right now, my focus is on expanding my skills in game making, but it's a been to
 Feel free to drop a line if you have questions, want to chat about programming, or just share a good joke!
 
 ## Oh, I use arch btw.
-Feel free to visit my (https://github.com/Exatio/dotfiles)[dotfiles] !
+Feel free to visit my [dotfiles](https://github.com/Exatio/dotfiles) !
 
 
 
