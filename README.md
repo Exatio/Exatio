@@ -14,10 +14,6 @@ but also Jetbrains IDEs, Emacs, Raylib, ...
 
 ## 🌱 Currently Learning
 Right now, my focus is on expanding my skills in game making, but it's a been tough with the mathematics so I don't really do any progress for now\
-Feel free to drop a line if you have questions, want to chat about programming, or just share a good joke!
-
-## Oh, I use arch btw.
-Feel free to visit my [dotfiles](https://github.com/Exatio/dotfiles) !
 
 
 
