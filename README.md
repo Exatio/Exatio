@@ -1,20 +1,19 @@
-# Welcome to My GitHub Repository 👋
+# I'm a third-year Computer Science student at Dauphine, passionate about software development, problem-solving, and innovative technology. This space serves as a portfolio of my projects and a testament to my learning journey in programming and beyond.
+## About Me
 
-I'm a third-year computer science student at Dauphine with a passion for programming and a love for technology. This is my GitHub space, where you'll find the code I've been working on, ideas I've explored, and my journey into the world of programming.
+- 🎓 **Education**: Pursuing a Bachelor’s in Computer Science at Dauphine University.
+- 💻 **Interests**: Software development, game design, and technology-driven solutions.
+- 🌟 **Current Focus**: Exploring the Nim programming language and delving deeper into game development.
+- 🚀 **Goals**: To continually expand my technical expertise and contribute to meaningful, real-world projects.
 
-## 📚 About Me
-🎓 Education: Currently navigating through my third year at Dauphine.\
-💻 Passion: I have a soft spot for programming, gaming (LoL, Valorant), and love to dive into new challenges.\
-🌱 Current Exploration: Currently delving into the [Nim programming language](https://github.com/nim-lang/Nim).\
-🚀 Goals: My aim is to continually enhance my coding skills and embark on interesting projects.
+## Skills & Tools
 
-## 🛠️ Technologies and Tools
-I'm quite at home with Java, C, Python, Javascript\
-but also Jetbrains IDEs, Emacs, Raylib, ...
+- **Programming Languages**: Java, Python, C, JavaScript.
+- **Development Tools**: JetBrains IDEs, Emacs, Raylib, and other modern frameworks.
 
-## 🌱 Currently Learning
-Right now, my focus is on expanding my skills in game making, but it's a been tough with the mathematics so I don't really do any progress for now\
+## Current Endeavors
 
+I'm currently enhancing my skills in game development, focusing on bridging the gap between creativity and technical precision. Although the mathematical aspects present a challenge, they also offer an exciting opportunity for growth and mastery.
 
-
+Feel free to explore my projects, provide feedback, or reach out for collaboration opportunities!
 
