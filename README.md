@@ -1,4 +1,7 @@
-# I'm a third-year Computer Science student at Dauphine, passionate about software development, problem-solving, and innovative technology. This space serves as a portfolio of my projects and a testament to my learning journey in programming and beyond.
+# Welcome to my GitHub Portfolio 
+
+I'm a third-year Computer Science student at Dauphine, passionate about software development, problem-solving, and innovative technology. This space serves as a portfolio of my projects and a testament to my learning journey in programming and beyond.
+
 ## About Me
 
 - 🎓 **Education**: Pursuing a Bachelor’s in Computer Science at Dauphine University.
