@@ -18,5 +18,4 @@ I'm a third-year Computer Science student at Dauphine, passionate about software
 
 I'm currently enhancing my skills in game development, focusing on bridging the gap between creativity and technical precision. Although the mathematical aspects present a challenge, they also offer an exciting opportunity for growth and mastery.
 
-Feel free to explore my projects, provide feedback, or reach out for collaboration opportunities!
-
+Feel free to explore my projects or provide feedback! 
